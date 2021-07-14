@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+New file onto branch-2
+=======
+New file onto branch-2
+edit this file
+>>>>>>> branch-2
